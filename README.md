@@ -1,7 +1,10 @@
-## Olá, eu sou o Rafael Moura 👋
-- Estudante de Desenvolvimento de Sistemas
-- Focado em Python, HTML e CSS 
-- Preparando-se para o mercado de tecnologia
+## Olá, eu sou Rafael Moura 👋
+**Estudante de Desenvolvimento de Sistemas | Focado em Python, HTML e CSS | Preparando-se para o mercado de tecnologia**  
+--- 
+## Sobre mim 
+Atualmente cursando **Técnico em Desenvolvimento de Sistemas**  
+Sempre aprendendo novas tecnologias e boas práticas de programação  
+
 - Contato: rafaelmouracarletto@gmail.com
   
 <!--
