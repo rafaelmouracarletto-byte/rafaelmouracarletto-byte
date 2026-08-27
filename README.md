@@ -1,5 +1,9 @@
-## Hi there 👋
-
+## Olá, eu sou o Rafael Moura 👋
+- Estudante de Desenvolvimento de Sistemas
+- Focado em Python, HTML e CSS 
+- Preparando-se para o mercado de tecnologia
+- Contato: rafaelmouracarletto@gmail.com
+  
 <!--
 **rafaelmouracarletto-byte/rafaelmouracarletto-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
